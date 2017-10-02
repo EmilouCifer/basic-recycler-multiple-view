@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bubblePoof">#E3F2FD</color>
+    <color name="blueSky">#1E88E5</color>
+    <color name="deepSea">#1565C0</color>
+    <color name="breathFire">#FF5722</color>
+    <color name="amberStone">#FFB300</color>
+    <color name="blackOut">#000000</color>
+    <color name="charcoalDust">#212121</color>
+    <color name="fadeShadows">#555555</color>
+    <color name="steelPiece">#757575</color>
+    <color name="spinGravel">#BDBDBD</color>
+    <color name="sacredPaper">#FFFFFF</color>
+</resources>
